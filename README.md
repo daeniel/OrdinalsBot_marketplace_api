@@ -19,8 +19,8 @@ Configuration settings are sourced from a `.env` file and a config module. Ensur
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/rezzecup/ordinalsbot-marketplace-api-backend.git
-    cd ordinalsbot-marketplace-api-backend
+    git clone https://github.com/tonny0831/OrdinalsBot_marketplace_api.git
+    cd OrdinalsBot_marketplace_api
     ```
 
 2. Install the dependencies:
